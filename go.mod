@@ -1,4 +1,4 @@
-module go-cli-gpt
+module github.com/mborejdo/go-cli-gpt
 
 go 1.22.0
 
