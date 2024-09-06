@@ -1,4 +1,4 @@
-module go-cli-template
+module go-cli-gpt
 
 go 1.22.0
 
